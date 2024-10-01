@@ -1,4 +1,14 @@
-## Hi there 👋
+```
+
+  _  _ _   _   _                    ___ _           _      _     _   
+ | || (_) | |_| |_  ___ _ _ ___    |_ _( )_ __     /_\  __| |___| |__
+ | __ | | |  _| ' \/ -_) '_/ -_)_   | ||/| '  \   / _ \/ _` / -_) / /
+ |_||_|_|  \__|_||_\___|_| \___( ) |___| |_|_|_| /_/ \_\__,_\___|_\_\
+                               |/                                    
+
+```
+
+# <center>Hi there 👋</center>
 
 <!--
 **AdekSycamore/adeksycamore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
