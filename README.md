@@ -6,17 +6,17 @@
                 /_/  |_\__,_/\___/_/|_|/____/\__, /\___/\__,_/_/ /_/ /_/\____/_/   \___/ 
                                              /____/                                       
 ```
----
 </br>
 </br>
+<h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Adrian;Nice+to+meet+you!&center=true&size=30&color=1F6FEB">
   </a>
+</h1>
 </br>
 </br>
 
----
-### 👀 A little more about me...  
+## Who am I? 
 ``` rust
 let adeksycamore = Me {
         pronouns: ("He", "Him"),
@@ -49,6 +49,8 @@ let adeksycamore = Me {
 ```
 
 </br>
+
+## My stats 📈
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=adeksycamore&show_icons=true&count_private=true&theme=github-dark-blue&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=adeksycamore&layout=compact&hide_border=true&theme=github-dark-blue&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
@@ -56,3 +58,10 @@ let adeksycamore = Me {
   <br>
   <br>
 </p>
+
+<details>
+<summary><b>Github trophy</b></summary>
+</br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=adeksycamore&theme=oldie&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+</details>
