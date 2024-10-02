@@ -8,9 +8,9 @@
 ```
 </br>
 </br>
-  <a href="https://git.io/typing-svg">
+  <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Adrian;Nice+to+meet+you!&center=true&size=30&color=1F6FEB">
-  </a>
+  </div>
 </br>
 </br>
 
