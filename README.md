@@ -6,6 +6,15 @@
                 /_/  |_\__,_/\___/_/|_|/____/\__, /\___/\__,_/_/ /_/ /_/\____/_/   \___/ 
                                              /____/                                       
 ```
+---
+</br>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Adrian;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+</br>
+
 ### 👀 A little more about me...  
 ``` rust
 let adeksycamore = Me {
@@ -36,5 +45,11 @@ let adeksycamore = Me {
         current_focus: "Leading a way in generative AI innovation",
         fun_fact: "I can debug faster with a coffee in hand!",
     };
-
 ```
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=adeksycamore&show_icons=true&count_private=true&theme=github-dark-blue&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=adeksycamore&layout=compact&hide_border=true&theme=github-dark-blue&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=adeksycamore&theme=github-dark-blue&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+</p>
